@@ -1,0 +1,8 @@
+Player:
+ - working phase 1 algorithm (prevent 'easy win' for opponent)
+ - fine tune evaluation function
+ - maximize score agains weak opponents,
+   by postponing a win, while possible
+
+Alternative version:
+ - do not check for winning-in-2, but maximize points.
